@@ -1,14 +1,14 @@
 
 # 📊 HR Analytics Dashboard
-> 📷 **Dashboard Preview**: Interactive Power BI report showing key sales insights and trends.
+> 📷 Dashboard Preview: Interactive Power BI report with key HR metrics and workforce trends.
 
-[HR Analytics Dashboard](HR Analytics Dashboard.jpg)
+![HR Analytics Dashboard]( https://github.com/prosenjit500/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard.jpg)
 
 ## Project Overview
 
 This **HR Analytics Dashboard** provides a comprehensive overview of workforce data including staffing, salaries, attrition, and demographic insights. Built for decision-makers, this visualization supports year-wise analysis, gender distribution, age breakdown, and job role insights to assist with strategic HR planning.
 
----
+
 
 ## 📌 Key Metrics
 
@@ -20,7 +20,7 @@ This **HR Analytics Dashboard** provides a comprehensive overview of workforce d
 | **Avg Age**      | 34.69   |
 | **Avg Leave Balance** | 16.63 |
 
----
+
 
 ## 📆 Timeframe Filters
 
@@ -35,7 +35,7 @@ Dropdown filters allow further segmentation by:
 - **Age Group**
 - **Job Title**
 
----
+
 
 ## 📚 Dashboard Components
 
@@ -70,39 +70,37 @@ Dropdown filters allow further segmentation by:
   - Majority of workforce lies in the **30–34** age range.
   - Balanced gender split across most age groups.
 
----
+
 
 ## 🧾 Definitions
 
 - **Attrition Rate**: The percentage of employees who leave the company.
 - **Leave Balance (LB)**: The number of unused leave days available to an employee.
 
----
+
 
 ## 🛠️ Tools Used
 
 - **Power BI**: Visualization, Data Modelling, Data Cleaning
-- **Excel**: Quick analysis and tabular insights
+- **Excel**: Quick analysis
 
----
 
-## 🎯 Potential Business Actions Based on Insights
+
+## 🎯 Actionable Insights for HR Strategy
 
 - Gender diversity is well-balanced across most job titles.
 - Younger employees (30–34) dominate the workforce, showing a strong mid-career presence.
 - Certain roles like *Production Operator* and *Research Analyst* show stable employment (low attrition).
 - Data-driven decision-making is facilitated through drill-down capabilities by year, gender, and job role.
 
----
+
 
 ## 📥 Download the Dashboard
+🔗 [Download HR Analytics Dashboard.pbix]( https://github.com/prosenjit500/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard.pbix)
 
-🔗 [Download HR Analytics Dashboard.pbix](HR Analytics Dashboard.pbix)
-
-
----
 
 ## 📬 Contact & Contributions
+
 If you find this project useful or have suggestions for improvements, feel free to contribute or reach out!
 
 🔗 LinkedIn: **Prosenjit Majumder** [LinkedIn Profile](https://www.linkedin.com/in/prosenjitmajumder) 
