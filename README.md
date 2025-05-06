@@ -108,5 +108,5 @@ If you find this project useful or have suggestions for improvements, feel free 
 📧 Email: prosenjitmajumder500@gmail.com
 
 ---
-Note: This project is for educational and portfolio purposes only and is not affiliated with Motorola.
+Note: This HR Analytics Dashboard project is for educational and portfolio purposes only and is not affiliated with any organization.
 
